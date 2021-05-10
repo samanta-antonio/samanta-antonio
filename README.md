@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**samanta-antonio/samanta-antonio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+My name is Samanta Antonio!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a physics teacher and also an aspiring developer.
+
+I'm currently studying Python 🐍, but I'm always ready for new challenges.
+
+Feel free to collaborate with my studies and projects, to contact me:
+
+✉ email: samantantonio@outlook.com
+
+🖥️LikedIn: https://www.linkedin.com/in/samanta-antonio/
